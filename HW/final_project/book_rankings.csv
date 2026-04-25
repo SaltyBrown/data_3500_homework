@@ -1,0 +1,759 @@
+rank,title,author,first_publish_year,readinglog_count,want_to_read_count,already_read_count,ratings_average,ratings_count,genre,date_fetched
+1,Harry Potter and the Philosopher's Stone,J. K. Rowling,1997,22611,19304,1590,4.2215447,984,fantasy,2026-04-25
+2,A Game of Thrones,George R. R. Martin,1996,13006,11267,876,4.217742,744,fantasy,2026-04-25
+3,Haunting Adeline,H. D. Carlton,2021,11600,10363,314,3.6052632,304,fantasy,2026-04-25
+4,Una corte de niebla y furia,Sarah J. Maas,2014,9230,8042,523,4.0068965,435,fantasy,2026-04-25
+5,O Alquimista,Paulo Coelho,1988,8959,7616,646,3.7968397,443,fantasy,2026-04-25
+6,Nineteen Eighty-Four,George Orwell,1949,8057,6732,840,4.290404,396,fantasy,2026-04-25
+7,The Hunger Games,Suzanne Collins,2008,6853,5531,884,4.1013646,513,fantasy,2026-04-25
+8,The Lightning Thief,Rick Riordan,2005,6685,5345,802,4.2908163,392,fantasy,2026-04-25
+9,Harry Potter and the Chamber of Secrets,J. K. Rowling,1998,6428,5084,904,4.1858406,452,fantasy,2026-04-25
+10,Twilight,Stephenie Meyer,2005,6138,5097,647,3.6611373,422,fantasy,2026-04-25
+11,Harry Potter and the Deathly Hallows,J. K. Rowling,2007,5746,4672,736,4.267157,408,fantasy,2026-04-25
+12,The Cruel Prince,Holly Black,2018,5508,5007,239,4.00625,160,fantasy,2026-04-25
+13,Harry Potter and the Prisoner of Azkaban,J. K. Rowling,1999,5496,4097,1105,4.2435484,620,fantasy,2026-04-25
+14,The Hobbit,J.R.R. Tolkien,1937,4871,3717,803,4.2860084,486,fantasy,2026-04-25
+15,Harry Potter and the Goblet of Fire,J. K. Rowling,2000,4735,3737,675,4.2626867,335,fantasy,2026-04-25
+16,Harry Potter and the Order of the Phoenix,J. K. Rowling,2003,4450,3499,660,4.224359,312,fantasy,2026-04-25
+17,Le petit prince,Antoine de Saint-Exupéry,1943,4230,3527,412,4.357466,221,fantasy,2026-04-25
+18,A Court of Thorns and Roses,Sarah J. Maas,2013,4200,3729,301,3.887218,133,fantasy,2026-04-25
+19,Charlotte's Web,E. B. White,1952,4176,3310,539,4.0317073,410,fantasy,2026-04-25
+20,Dune,Frank Herbert,1965,4165,3249,668,4.3019323,414,fantasy,2026-04-25
+21,Metamorphosis,Franz Kafka,1915,3711,3128,360,4.1700683,147,fantasy,2026-04-25
+22,Harry Potter and the Half-Blood Prince,J. K. Rowling,2005,3607,2888,512,4.3461537,208,fantasy,2026-04-25
+23,The Eye of the World,Robert Jordan,1990,3492,2826,346,3.9292035,226,fantasy,2026-04-25
+24,Fourth Wing,Rebecca Yarros,2023,3144,2808,174,4.224719,89,fantasy,2026-04-25
+25,The Handmaid's Tale,Margaret Atwood,1985,3123,2715,256,3.9590163,122,fantasy,2026-04-25
+26,Matilda,Roald Dahl,1988,3037,2472,351,4.362264,265,fantasy,2026-04-25
+27,Coraline,Neil Gaiman,2001,2984,2583,288,4.030457,197,fantasy,2026-04-25
+28,The Giver,Lois Lowry,1993,2879,2203,505,4.032258,310,fantasy,2026-04-25
+29,Charlie and the Chocolate Factory,Roald Dahl,1964,2853,2273,387,4.02974,269,fantasy,2026-04-25
+30,The Great Gatsby,F. Scott Fitzgerald,1920,2843,2252,425,3.9646466,198,fantasy,2026-04-25
+31,Powerless,Lauren Roberts,2023,2820,2554,94,4.0,65,fantasy,2026-04-25
+32,The Lord of the Rings,J.R.R. Tolkien,1954,2604,2211,209,4.504854,103,fantasy,2026-04-25
+33,Six of Crows,Leigh Bardugo,2015,2440,2136,177,4.54023,87,fantasy,2026-04-25
+34,Dracula,Bram Stoker,1897,2361,1816,366,4.043716,183,fantasy,2026-04-25
+35,The Fellowship of the Ring,J.R.R. Tolkien,1954,2321,1634,581,4.3603134,383,fantasy,2026-04-25
+36,The Lost Hero,Rick Riordan,2010,2317,1773,369,4.4363637,165,fantasy,2026-04-25
+37,Of Mice and Men,John Steinbeck,1937,2222,1621,478,3.986159,289,fantasy,2026-04-25
+38,Alice's Adventures in Wonderland,Lewis Carroll,1865,2166,1706,330,4.063927,219,fantasy,2026-04-25
+39,The Midnight Library,Matt Haig,2020,2095,1912,116,3.943662,71,fantasy,2026-04-25
+40,The Sea of Monsters,Rick Riordan,2006,2094,1441,509,4.4555554,180,fantasy,2026-04-25
+41,Catching Fire,Suzanne Collins,2009,2083,1438,548,4.1024737,283,fantasy,2026-04-25
+42,Throne of Glass,Sarah J. Maas,2012,2065,1793,187,4.1728396,81,fantasy,2026-04-25
+43,The Picture of Dorian Gray,Oscar Wilde,1890,2059,1600,308,4.1512604,119,fantasy,2026-04-25
+44,The Invisible Man,H. G. Wells,0,1982,1662,190,3.8018868,106,fantasy,2026-04-25
+45,Moby Dick,Herman Melville,1851,1930,1549,266,3.9786096,187,fantasy,2026-04-25
+46,Cien años de soledad,Gabriel García Márquez,1967,1928,1634,153,4.109756,82,fantasy,2026-04-25
+47,Foundation,Isaac Asimov,1951,1917,1373,450,4.098305,295,fantasy,2026-04-25
+48,The Prince,Niccolò Machiavelli,1515,1852,1553,172,3.824074,108,fantasy,2026-04-25
+49,The Titan's Curse,Rick Riordan,2007,1836,1267,440,4.4437084,151,fantasy,2026-04-25
+50,Fire & Blood,George R. R. Martin,2014,1799,1624,56,3.9782608,46,fantasy,2026-04-25
+51,"The Lion, the Witch and the Wardrobe",C. S. Lewis,1950,1790,1445,246,4.132231,121,fantasy,2026-04-25
+52,The Time Machine,H. G. Wells,1895,1749,1393,238,4.00813,123,fantasy,2026-04-25
+53,Harry Potter and the Cursed Child,"Jack Thorne, John Tiffany, J. K. Rowling",2001,1710,1428,192,3.9734514,113,fantasy,2026-04-25
+54,The BFG,Roald Dahl,1980,1586,1281,204,4.094203,138,fantasy,2026-04-25
+55,The Name of the Wind,"Patrick Rothfuss, Marc Simonetti",2007,1559,1157,335,4.34127,252,fantasy,2026-04-25
+56,三体,"刘慈欣, Vincent Schmitt, Gwennaël Gaffric, Marc Simonetti",2008,1522,1112,327,3.9292452,212,fantasy,2026-04-25
+57,A Wrinkle in Time,Madeleine L'Engle,1962,1515,1165,274,3.9294116,170,fantasy,2026-04-25
+58,Eragon,Christopher Paolini,1998,1506,1088,352,3.7901785,224,fantasy,2026-04-25
+59,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,1875,1493,1154,275,3.9503546,141,fantasy,2026-04-25
+60,James and the Giant Peach,Roald Dahl,1961,1488,1176,205,3.9318182,132,fantasy,2026-04-25
+61,The Wonderful Wizard of Oz,L. Frank Baum,1899,1481,1187,206,3.935484,124,fantasy,2026-04-25
+62,The Final Empire,Brandon Sanderson,2001,1471,1159,246,4.4217687,147,fantasy,2026-04-25
+63,The Cat in the Hat,"Dr. Seuss, Simon Mugford",1957,1471,1179,208,4.1320753,106,fantasy,2026-04-25
+64,Slaughterhouse-Five,Kurt Vonnegut,1968,1469,1040,385,4.1647058,255,fantasy,2026-04-25
+65,The Battle of the Labyrinth,Rick Riordan,2008,1466,966,392,4.3846154,130,fantasy,2026-04-25
+66,Ignite Me,Tahereh Mafi,2014,1458,1280,97,4.0434785,46,fantasy,2026-04-25
+67,Fantastic Mr Fox,Roald Dahl,1970,1434,1163,177,3.9545455,110,fantasy,2026-04-25
+68,The Secret Garden,Frances Hodgson Burnett,1911,1406,1115,188,3.9333334,90,fantasy,2026-04-25
+69,The Last Olympian,Rick Riordan,2009,1406,945,394,4.414966,147,fantasy,2026-04-25
+70,Anne of Green Gables,Lucy Maud Montgomery,1908,1393,1056,203,4.3010755,93,fantasy,2026-04-25
+71,The Son of Neptune,Rick Riordan,2011,1379,1002,274,4.2881355,118,fantasy,2026-04-25
+72,The Immortals of Meluha,Amish Tripathi,2010,1350,1196,45,3.8333333,42,fantasy,2026-04-25
+73,The Martian,Andy Weir,2011,1349,833,461,4.3944955,327,fantasy,2026-04-25
+74,The Two Towers,J.R.R. Tolkien,1954,1342,871,410,4.367713,223,fantasy,2026-04-25
+75,The Gunslinger,Stephen King,1976,1340,1121,161,4.046154,65,fantasy,2026-04-25
+76,The War of the Worlds,H. G. Wells,0,1331,1019,241,3.8152866,157,fantasy,2026-04-25
+77,Red Queen,Victoria Aveyard,2015,1310,1138,113,4.0333333,60,fantasy,2026-04-25
+78,Howl's Moving Castle,Diana Wynne Jones,1986,1297,1047,199,4.4528303,106,fantasy,2026-04-25
+79,Good Omens,"Neil Gaiman, Terry Pratchett",1990,1276,1038,164,4.448276,87,fantasy,2026-04-25
+80,Percy Jackson's Greek Gods,Rick Riordan,2006,1228,1043,95,4.6901407,71,fantasy,2026-04-25
+81,Caraval,Stephanie Garber,2000,1214,1091,67,3.8297873,47,fantasy,2026-04-25
+82,Treasure Island,Robert Louis Stevenson,1880,1183,922,183,3.773196,97,fantasy,2026-04-25
+83,A Court of Wings and Ruin,Sarah J. Maas,2017,1174,1004,118,4.3125,48,fantasy,2026-04-25
+84,New Moon,Stephenie Meyer,2006,1164,891,197,3.9605262,76,fantasy,2026-04-25
+85,City of Bones,Cassandra Clare,2007,1159,937,160,3.9,90,fantasy,2026-04-25
+86,Northern Lights,Philip Pullman,1995,1122,771,309,3.9506726,223,fantasy,2026-04-25
+87,Into the Wild,Erin Hunter,2003,1120,889,153,4.5,96,fantasy,2026-04-25
+88,The Mark of Athena,Rick Riordan,2011,1119,773,253,4.4774776,111,fantasy,2026-04-25
+89,The Way of Kings,Brandon Sanderson,2010,1117,826,242,4.535484,155,fantasy,2026-04-25
+90,The Silmarillion,J.R.R. Tolkien,1977,1109,878,180,3.957265,117,fantasy,2026-04-25
+91,Where the Wild Things Are,Maurice Sendak,1963,1085,878,173,4.1359224,103,fantasy,2026-04-25
+92,Circe,Madeline Miller,2018,1073,896,149,4.147059,102,fantasy,2026-04-25
+93,House of Hades,Rick Riordan,2013,1065,754,246,4.293103,116,fantasy,2026-04-25
+94,The Witches,Roald Dahl,1983,1062,829,167,4.1666665,90,fantasy,2026-04-25
+95,Outlander,Diana Gabaldon,1991,1039,921,70,4.0465117,43,fantasy,2026-04-25
+96,Iron Flame,Rebecca Yarros,2023,1018,888,81,4.3030305,33,fantasy,2026-04-25
+97,A Wizard of Earthsea,Ursula K. Le Guin,1968,1014,803,168,3.9491525,118,fantasy,2026-04-25
+98,Shadow and Bone,Leigh Bardugo,2012,1008,862,95,3.8333333,36,fantasy,2026-04-25
+99,Do Androids Dream of Electric Sheep?,Philip K. Dick,1968,999,701,258,4.056962,158,fantasy,2026-04-25
+100,Insomnia,Stephen King,1994,990,798,146,3.878788,99,fantasy,2026-04-25
+101,The Blood of Olympus,Rick Riordan,2014,989,734,186,4.4468083,94,fantasy,2026-04-25
+102,Les Misérables,Victor Hugo,1862,974,817,94,4.25,52,fantasy,2026-04-25
+103,Alas de ónix,Rebecca Yarros,2025,971,863,53,4.4827585,29,fantasy,2026-04-25
+104,A Christmas Carol,"Charles Dickens, Groth, Nancy Baker",1843,971,710,206,3.9423077,104,fantasy,2026-04-25
+105,Breaking Dawn,Stephenie Meyer,2000,964,705,217,3.4311926,109,fantasy,2026-04-25
+106,Perfume,Patrick Süskind,1985,962,774,136,3.8674698,83,fantasy,2026-04-25
+107,A Midsummer Night's Dream,William Shakespeare,1600,959,733,189,3.9238095,105,fantasy,2026-04-25
+108,Alice's Adventures in Wonderland / Through the Looking Glass,Lewis Carroll,1889,952,735,179,4.02,100,fantasy,2026-04-25
+109,The Call of the Wild,Jack London,1903,943,728,162,3.949367,79,fantasy,2026-04-25
+110,The Magician's Nephew,C. S. Lewis,1955,940,700,205,4.037736,106,fantasy,2026-04-25
+111,The Return of the King,J.R.R. Tolkien,1950,937,668,235,4.4326925,104,fantasy,2026-04-25
+112,Der Proceß,Franz Kafka,1825,925,750,121,4.193548,62,fantasy,2026-04-25
+113,The Wicked King,Holly Black,2019,923,805,65,4.2173915,23,fantasy,2026-04-25
+114,The Colour of Magic,Terry Pratchett,1983,921,625,254,3.9865773,149,fantasy,2026-04-25
+115,Gulliver's Travels,Jonathan Swift,1726,920,738,139,3.6136363,88,fantasy,2026-04-25
+116,The School for Good and Evil,Soman Chainani,2007,914,774,75,4.6545453,55,fantasy,2026-04-25
+117,Red Rising,Pierce Brown,2014,912,742,140,3.9175258,97,fantasy,2026-04-25
+118,The Phantom Tollbooth,Norton Juster,1961,902,693,143,4.1568627,102,fantasy,2026-04-25
+119,A Clash of Kings,George R. R. Martin,1998,895,575,285,4.319149,188,fantasy,2026-04-25
+120,The Invisible Life of Addie LaRue,V. E. Schwab,2015,876,761,86,4.018868,53,fantasy,2026-04-25
+121,The Hidden Oracle,Rick Riordan,2016,864,704,110,4.537037,54,fantasy,2026-04-25
+122,Keeper of the Lost Cities,Shannon Messenger,2012,856,725,84,4.6896553,58,fantasy,2026-04-25
+123,The Chronicles of Narnia,C. S. Lewis,1970,851,684,131,4.1707315,82,fantasy,2026-04-25
+124,11/22/63,Stephen King,1925,846,667,140,4.107843,102,fantasy,2026-04-25
+125,American Gods,Neil Gaiman,2001,846,678,136,4.206897,58,fantasy,2026-04-25
+126,Watchmen,"Alan Moore, Dave Gibbons, John Higgins",1987,843,544,277,4.4805193,231,fantasy,2026-04-25
+127,Ostatnie Życzenie,"Andrzej Sapkowski, Danusia Stok",1993,835,701,105,4.0833335,60,fantasy,2026-04-25
+128,Sunrise on the Reaping,Suzanne Collins,2025,835,772,34,4.695652,23,fantasy,2026-04-25
+129,The Awakening,Lisa Jane Smith,1991,828,746,35,4.0333333,30,fantasy,2026-04-25
+130,Reckless,Lauren Roberts,2024,815,733,24,4.214286,14,fantasy,2026-04-25
+131,Brutal Prince,Sophie Lark,2020,810,746,17,3.7,20,fantasy,2026-04-25
+132,Flatland,Edwin Abbott Abbott,1884,809,631,149,3.9081633,98,fantasy,2026-04-25
+133,Cell,Stephen King,2006,809,628,148,3.644628,121,fantasy,2026-04-25
+134,Fight Club,Chuck Palahniuk,1996,799,597,172,4.023077,130,fantasy,2026-04-25
+135,Women in Love,D. H. Lawrence,1877,788,683,33,3.5789473,19,fantasy,2026-04-25
+136,Miss Peregrine's Home for Peculiar Children,Ransom Riggs,2011,773,628,111,4.4390244,41,fantasy,2026-04-25
+137,Under the Dome,Stephen King,2009,772,623,107,3.8181818,55,fantasy,2026-04-25
+138,Skeleton crew,Stephen King,1985,772,651,91,4.212121,33,fantasy,2026-04-25
+139,The Night Circus,Erin Morgenstern,2011,771,653,95,4.169231,65,fantasy,2026-04-25
+140,Мастер и Маргарита,Михаил Афанасьевич Булгаков,1966,747,567,141,4.1595745,94,fantasy,2026-04-25
+141,Peter Pan,J. M. Barrie,1911,744,611,86,3.6,45,fantasy,2026-04-25
+142,Crooked Kingdom,Leigh Bardugo,2016,718,598,84,4.382353,34,fantasy,2026-04-25
+143,Robinson Crusoe,"Daniel Defoe, J. J. Grandville, Petrus Borel, Les éditions du Rey, N. C. Wyeth",1686,716,584,69,3.92,25,fantasy,2026-04-25
+144,Carmilla,Sheridan Le Fanu,1871,714,588,99,3.9322033,59,fantasy,2026-04-25
+145,The Wind in the Willows,Kenneth Grahame,1908,707,561,93,4.0740743,54,fantasy,2026-04-25
+146,The Graveyard Book,Neil Gaiman,2008,702,509,172,4.1900826,121,fantasy,2026-04-25
+147,Crown of Midnight,Sarah J. Maas,2013,701,556,109,4.414634,41,fantasy,2026-04-25
+148,Heir of Fire,Sarah J. Maas,2014,701,572,99,4.268293,41,fantasy,2026-04-25
+149,Night Shift,Stephen King,1960,693,595,71,4.3846154,26,fantasy,2026-04-25
+150,Hyperion,Dan Simmons,1989,689,456,210,4.181208,149,fantasy,2026-04-25
+
+
+1,Harry Potter and the Philosopher's Stone,J. K. Rowling,1997,22611,19304,1590,4.2215447,984,mystery,2026-04-25
+2,A Good Girl's Guide to Murder,Holly Jackson,2019,5972,5384,256,4.0060606,165,mystery,2026-04-25
+3,Harry Potter and the Deathly Hallows,J. K. Rowling,2007,5746,4672,736,4.267157,408,mystery,2026-04-25
+4,Twisted Lies,Ana Huang,2022,5682,5191,197,4.0958085,167,mystery,2026-04-25
+5,Harry Potter and the Half-Blood Prince,J. K. Rowling,2005,3607,2888,512,4.3461537,208,mystery,2026-04-25
+6,The Da Vinci Code,Dan Brown,2003,3340,2790,343,3.9175825,182,mystery,2026-04-25
+7,Преступление и наказание,Фёдор Михайлович Достоевский,1866,3087,2628,255,4.2933335,150,mystery,2026-04-25
+8,The Adventures of Sherlock Holmes [12 stories],Arthur Conan Doyle,1892,3045,2554,222,4.152941,170,mystery,2026-04-25
+9,Culpa mía,Mercedes Ron,2014,2825,2554,75,3.919355,62,mystery,2026-04-25
+10,Where the Crawdads Sing,Delia Owens,2018,2803,2582,150,4.3195877,97,mystery,2026-04-25
+11,One Of Us Is Lying,Karen M. McManus,2017,2693,2425,127,4.2134833,89,mystery,2026-04-25
+12,Six of Crows,Leigh Bardugo,2015,2440,2136,177,4.54023,87,mystery,2026-04-25
+13,And Then There Were None,Agatha Christie,1939,2198,1761,312,4.2484846,165,mystery,2026-04-25
+14,The Invisible Man,H. G. Wells,0,1982,1662,190,3.8018868,106,mystery,2026-04-25
+15,The Secret History,Donna Tartt,1992,1932,1710,136,4.025641,78,mystery,2026-04-25
+16,The Housemaid,Freida McFadden,2022,1910,1749,67,3.8823528,17,mystery,2026-04-25
+17,Angels & Demons,Dan Brown,2000,1767,1284,368,3.6523438,256,mystery,2026-04-25
+18,Murder on the Orient Express,Agatha Christie,1933,1729,1379,252,4.1282053,117,mystery,2026-04-25
+19,The Green Mile,Stephen King,1996,1678,1387,212,4.3365383,104,mystery,2026-04-25
+20,The Curious Incident of the Dog in the Night-Time,Mark Haddon,2002,1669,1255,331,3.9347825,230,mystery,2026-04-25
+21,Ready Player One,Ernest Cline,2008,1590,1127,396,4.0,303,mystery,2026-04-25
+22,The Name of the Wind,"Patrick Rothfuss, Marc Simonetti",2007,1559,1157,335,4.34127,252,mystery,2026-04-25
+23,The Inheritance Games,Jennifer Lynn Barnes,2020,1529,1356,104,4.206897,58,mystery,2026-04-25
+24,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,1875,1493,1154,275,3.9503546,141,mystery,2026-04-25
+25,The Secret Garden,Frances Hodgson Burnett,1911,1406,1115,188,3.9333334,90,mystery,2026-04-25
+26,In Cold Blood,Truman Capote,1965,1324,1127,139,4.042105,95,mystery,2026-04-25
+27,Gone Girl,Gillian Flynn,2011,1320,1142,119,3.7246377,69,mystery,2026-04-25
+28,The A.B.C. Murders,Agatha Christie,1936,1233,1060,117,4.0677967,59,mystery,2026-04-25
+29,Heart of Darkness,Joseph Conrad,1899,1217,952,199,3.5984848,132,mystery,2026-04-25
+30,Thirteen reasons why,"Jay Asher, Jay Asher",2007,1204,993,145,3.75,84,mystery,2026-04-25
+31,Does It Hurt?,H. D. Carlton,2022,1186,1086,34,3.7272727,22,mystery,2026-04-25
+32,The Bachman Books (Long Walk / Rage / Roadwork / Running Man),Stephen King,1985,1086,828,178,3.8666666,165,mystery,2026-04-25
+33,Never Lie,Freida McFadden,2022,1077,968,32,2.9166667,12,mystery,2026-04-25
+34,Oliver Twist,Charles Dickens,1822,1035,838,129,4.0657897,76,mystery,2026-04-25
+35,海辺のカフカ,村上春樹,2001,1027,845,147,4.0537634,93,mystery,2026-04-25
+36,The Godfather,Mario Puzo,1969,993,823,82,4.2272725,44,mystery,2026-04-25
+37,Our Fault,Mercedes Ron,2014,976,869,28,3.28,25,mystery,2026-04-25
+38,The Murder of Roger Ackroyd,Agatha Christie,1926,965,715,187,4.2236843,76,mystery,2026-04-25
+39,Breaking Dawn,Stephenie Meyer,2000,964,705,217,3.4311926,109,mystery,2026-04-25
+40,"The Complete Sherlock Holmes [4 novels, 56 stories]",Arthur Conan Doyle,1900,964,802,75,4.510638,47,mystery,2026-04-25
+41,Perfume,Patrick Süskind,1985,962,774,136,3.8674698,83,mystery,2026-04-25
+42,The Lost Symbol,Dan Brown,2009,921,683,186,3.6082475,97,mystery,2026-04-25
+43,Death on the Nile,Agatha Christie,1937,860,711,99,4.1666665,24,mystery,2026-04-25
+44,The Mysterious Affair at Styles,Agatha Christie,1920,853,631,174,4.035714,84,mystery,2026-04-25
+45,La sombra del viento,Carlos Ruiz Zafón,2001,847,708,72,4.2916665,48,mystery,2026-04-25
+46,Forbidden knowledge,Roger Shattuck,1996,845,748,42,4.275,40,mystery,2026-04-25
+47,Watchmen,"Alan Moore, Dave Gibbons, John Higgins",1987,843,544,277,4.4805193,231,mystery,2026-04-25
+48,If We Were Villains,M. L. Rio,2017,835,779,32,3.9047618,21,mystery,2026-04-25
+49,1st to Die,James Patterson,2001,806,709,61,4.185185,27,mystery,2026-04-25
+50,The Girl on the Train,Paula Hawkins,2014,795,607,130,3.6,90,mystery,2026-04-25
+51,The Silence of the Lambs,Thomas Harris,1988,791,675,79,4.173913,46,mystery,2026-04-25
+52,Miss Peregrine's Home for Peculiar Children,Ransom Riggs,2011,773,628,111,4.4390244,41,mystery,2026-04-25
+53,Il nome della rosa,Umberto Eco,1980,751,552,160,4.145299,117,mystery,2026-04-25
+54,A Study in Scarlet,Arthur Conan Doyle,1887,749,481,196,3.9646018,113,mystery,2026-04-25
+55,Paper Towns,John Green,2008,739,577,129,3.8701298,77,mystery,2026-04-25
+56,Atlas Shrugged (Centennial Ed. HC),"Ayn Rand, Sophie Bastide-Foltz, Ayn Rand;, Adrian Rand, Ayn Rand",1936,733,565,139,3.2631578,114,mystery,2026-04-25
+57,The Housemaid's Secret,Freida McFadden,2023,729,678,30,3.75,8,mystery,2026-04-25
+58,The Hound of the Baskervilles,Arthur Conan Doyle,1900,718,550,121,4.0,59,mystery,2026-04-25
+59,Carmilla,Sheridan Le Fanu,1871,714,588,99,3.9322033,59,mystery,2026-04-25
+60,Dark Matter,Blake Crouch,2016,707,548,133,4.035294,85,mystery,2026-04-25
+61,Night Shift,Stephen King,1960,693,595,71,4.3846154,26,mystery,2026-04-25
+62,Red Dragon,Thomas Harris,1981,687,577,65,4.285714,35,mystery,2026-04-25
+63,Inferno,Dan Brown,2013,678,519,128,3.7076924,65,mystery,2026-04-25
+64,Män som hatar kvinnor,Stieg Larsson,2005,667,487,149,4.185567,97,mystery,2026-04-25
+65,Mr. Mercedes,"Stephen King, Stephen king, Ingah Mikhaʼeli",2013,662,523,103,4.12,50,mystery,2026-04-25
+66,One of us is next,Karen M. McManus,2020,647,579,36,4.1363635,22,mystery,2026-04-25
+67,Memoirs of Sherlock Holmes [11 stories],Arthur Conan Doyle,1893,646,523,64,4.535714,28,mystery,2026-04-25
+68,Deception Point,Dan Brown,2001,640,423,162,3.3423424,111,mystery,2026-04-25
+69,The Lost World,Arthur Conan Doyle,1900,625,505,86,4.0454545,44,mystery,2026-04-25
+70,Welcome to Dead House,Robert Lawrence Stine,1992,617,493,82,4.3333335,36,mystery,2026-04-25
+71,Behind Closed Doors,B.A. Paris,2016,586,542,25,3.75,20,mystery,2026-04-25
+72,The Return of Sherlock Holmes,Arthur Conan Doyle,1903,584,479,53,4.2727275,33,mystery,2026-04-25
+73,"Full Dark, No Stars",Stephen King,2010,577,485,67,4.071429,42,mystery,2026-04-25
+74,Firestarter,Stephen King,1980,576,469,81,3.925926,27,mystery,2026-04-25
+75,Gerald's Game,Stephen King,1992,571,462,85,3.7575758,33,mystery,2026-04-25
+76,We Have Always Lived in the Castle,"Shirley Jackson, Bernadette Dunne",1962,564,447,100,4.3207545,53,mystery,2026-04-25
+77,The Locked Door,Freida McFadden,2021,555,491,29,3.5555556,18,mystery,2026-04-25
+78,Darkly dreaming Dexter,Jeffry P. Lindsay,2004,542,494,20,4.4666667,15,mystery,2026-04-25
+79,The Price of Salt,Patricia Highsmith,1952,531,468,41,4.5384617,26,mystery,2026-04-25
+80,Along Came a Spider,James Patterson,1993,525,406,83,4.0285716,35,mystery,2026-04-25
+81,Amulet,Kazu Kibuishi,2008,521,434,53,4.571429,42,mystery,2026-04-25
+82,The Mystery of the Blue Train,Agatha Christie,1928,521,398,84,3.9629629,27,mystery,2026-04-25
+83,Annihilation,Jeff VanderMeer,2014,520,354,149,3.631579,95,mystery,2026-04-25
+84,The Screaming Staircase,Jonathan Stroud,2013,518,454,36,4.5238094,21,mystery,2026-04-25
+85,Stormbreaker,Anthony Horowitz,2000,513,413,78,3.9189188,37,mystery,2026-04-25
+86,Pretty Little Liars,Sara Shepard,2006,499,435,43,4.193548,31,mystery,2026-04-25
+87,The Sign of Four,Arthur Conan Doyle,1889,490,317,142,4.25,88,mystery,2026-04-25
+88,The Hawthorne Legacy,Jennifer Lynn Barnes,2021,483,422,45,4.035714,28,mystery,2026-04-25
+89,The Butterfly Garden,Dot Hutchison,2016,481,439,15,3.5384614,13,mystery,2026-04-25
+90,The Murders in the Rue Morgue,Edgar Allan Poe,1841,477,408,39,4.2380953,21,mystery,2026-04-25
+91,Five on a Treasure Island,Enid Blyton,1942,475,375,44,4.285714,21,mystery,2026-04-25
+92,Gideon the Ninth,Tamsyn Muir,2019,470,367,92,4.2608695,69,mystery,2026-04-25
+93,Murder on the Links,Agatha Christie,1923,466,343,91,3.5,22,mystery,2026-04-25
+94,The Stepford Wives,Ira Levin,1972,465,366,83,3.6666667,30,mystery,2026-04-25
+95,El túnel,Ernesto Sabato,1948,448,357,56,4.138889,36,mystery,2026-04-25
+96,Say Cheese and Die!,Robert Lawrence Stine,1992,447,375,55,4.0,24,mystery,2026-04-25
+97,After the Funeral,Agatha Christie,1953,446,363,57,4.1764708,17,mystery,2026-04-25
+98,The Case-Book of Sherlock Holmes,Arthur Conan Doyle,1927,439,365,49,4.5666666,30,mystery,2026-04-25
+99,The Firm,John Grisham,1991,439,346,65,4.0,21,mystery,2026-04-25
+100,Scary stories to tell in the dark,Alvin Schwartz,1981,437,377,49,3.96,25,mystery,2026-04-25
+101,The Secret Agent,Joseph Conrad,1907,429,358,36,4.142857,28,mystery,2026-04-25
+102,Suicide Med,Freida McFadden,2014,423,353,27,4.142857,14,mystery,2026-04-25
+103,Monday's Not Coming,Tiffany D. Jackson,2018,419,385,14,4.5555553,9,mystery,2026-04-25
+104,The Boxcar Children,Gertrude Chandler Warner,1924,414,321,68,4.205128,39,mystery,2026-04-25
+105,The Rainmaker,John Grisham,1995,411,317,66,3.8275862,29,mystery,2026-04-25
+106,The Virgin Suicides (Bloomsbury Classic),"Jeffrey Eugenides, Nick Landrum",1993,404,344,45,3.8125,32,mystery,2026-04-25
+107,Storm Front,Jim Butcher,2000,404,239,157,3.6237624,101,mystery,2026-04-25
+108,Bunnicula,"Deborah Howe, James Howe",1979,402,340,38,4.173913,23,mystery,2026-04-25
+109,Flashback,Shannon Messenger,2012,400,351,33,4.5238094,21,mystery,2026-04-25
+110,The Moonstone,Wilkie Collins,1800,398,336,40,4.090909,22,mystery,2026-04-25
+111,The Woman in White,"Wilkie Collins, William Collins",1859,395,335,34,4.05,20,mystery,2026-04-25
+112,"The Case of the Missing Marquess (Enola Holmes, #1)",Nancy Springer,2006,394,333,34,4.5,14,mystery,2026-04-25
+113,The Secret Adversary,Agatha Christie,1922,394,299,73,3.7878788,33,mystery,2026-04-25
+114,A Time to Kill,John Grisham,1989,393,330,46,3.76,25,mystery,2026-04-25
+115,The Tell-Tale Heart,Edgar Allan Poe,1958,392,281,96,4.203704,54,mystery,2026-04-25
+116,The Spy Who Came in from the Cold,John le Carré,1602,391,291,78,4.1555557,45,mystery,2026-04-25
+117,The Inmate,Freida McFadden,2022,390,351,28,4.6666665,3,mystery,2026-04-25
+118,The Hidden Staircase,Carolyn Keene,1930,387,304,50,3.7083333,24,mystery,2026-04-25
+119,The Body in the Library,Agatha Christie,1942,385,300,63,3.85,20,mystery,2026-04-25
+120,Poirot investigates,Agatha Christie,1924,382,296,64,4.3333335,18,mystery,2026-04-25
+121,The Thursday Murder Club,Richard Osman,2020,378,331,36,3.764706,17,mystery,2026-04-25
+122,Petals on the Wind,V.C. Andrews,1980,378,315,44,4.0,13,mystery,2026-04-25
+123,The Struggle,Lisa Jane Smith,1991,376,331,26,4.571429,21,mystery,2026-04-25
+124,The Institute,Stephen King,2019,371,320,40,3.857143,14,mystery,2026-04-25
+125,Persuader,Lee Child,2003,370,318,42,3.5833333,12,mystery,2026-04-25
+126,Murder in Three Acts,Agatha Christie,1934,369,303,53,3.6666667,12,mystery,2026-04-25
+127,The Passage,Justin Cronin,2010,360,293,54,3.85,40,mystery,2026-04-25
+128,V for Vendetta,"Alan Moore, David Lloyd",1988,360,217,135,4.2291665,96,mystery,2026-04-25
+129,Everything I never told you,Celeste Ng,2014,355,291,51,3.902439,41,mystery,2026-04-25
+130,One for the Money,Janet Evanovich,1994,353,272,62,4.0,24,mystery,2026-04-25
+131,Damián,Alex Mírez,2022,351,305,15,4.4210525,19,mystery,2026-04-25
+132,Middlemarch,"George Eliot, Jessica Hische, Francine Prose, ReadinGreat, Claire Jarvis, Margot Everett",1800,347,280,49,4.12,25,mystery,2026-04-25
+133,1Q84,村上春樹,2009,345,260,76,3.8863637,44,mystery,2026-04-25
+134,Dog Man,Dav Pilkey,2002,345,305,21,4.392857,28,mystery,2026-04-25
+135,The Big Four,Agatha Christie,1927,344,243,75,4.181818,22,mystery,2026-04-25
+136,The Murder at the Vicarage,Agatha Christie,1930,338,246,73,4.137931,29,mystery,2026-04-25
+137,Sleeping Murder,Agatha Christie,1940,337,271,51,4.142857,14,mystery,2026-04-25
+138,The enemy,Lee Child,2004,337,287,41,3.7692308,13,mystery,2026-04-25
+139,Five Little Pigs,Agatha Christie,1942,336,267,62,4.0,19,mystery,2026-04-25
+140,The Big Sleep,Raymond Chandler,1939,336,274,48,4.05,20,mystery,2026-04-25
+141,Duma Key,Stephen King,2008,335,236,85,4.019608,51,mystery,2026-04-25
+142,Matahari,Tere Liye,2016,334,266,40,4.368421,19,mystery,2026-04-25
+143,The Red House Mystery,A. A. Milne,1922,334,271,33,4.428571,14,mystery,2026-04-25
+144,Bully,Penelope Douglas,2013,332,293,17,4.6363635,11,mystery,2026-04-25
+145,Crooked House,Agatha Christie,1949,332,273,43,4.2727275,11,mystery,2026-04-25
+146,The Westing Game,Ellen Raskin,1978,330,254,55,3.878788,33,mystery,2026-04-25
+147,The magic Faraway Tree,Enid Blyton,1943,327,271,38,4.2105265,19,mystery,2026-04-25
+148,Il pendolo di Foucault,Umberto Eco,1988,325,243,74,3.92,50,mystery,2026-04-25
+149,Darkstalker,Tui T. Sutherland,2016,323,277,29,4.647059,17,mystery,2026-04-25
+150,The Housemaid Is Watching,Freida McFadden,2024,323,288,18,3.5,6,mystery,2026-04-25
+
+
+1,Sapiens,Yuval Noah Harari,2011,5748,5028,312,4.2189054,201,non-fiction,2026-04-25
+2,Divergent,Veronica Roth,2010,2080,1617,343,3.96,200,non-fiction,2026-04-25
+3,Guess How Much I Love You,"Sam McBratney, Anita Jeram",1994,1436,1152,197,4.337209,86,non-fiction,2026-04-25
+4,Анна Каренина,Лев Толстой,1876,1269,1089,101,4.2083335,48,non-fiction,2026-04-25
+5,The Scarlet Letter,Nathaniel Hawthorne,1800,1177,938,207,3.416,125,non-fiction,2026-04-25
+6,Lights Out,Navessa Allen,2024,1151,1057,35,4.409091,22,non-fiction,2026-04-25
+7,Tao te Ching,老子,1842,983,844,82,4.285714,56,non-fiction,2026-04-25
+8,A Christmas Carol,"Charles Dickens, Groth, Nancy Baker",1843,971,710,206,3.9423077,104,non-fiction,2026-04-25
+9,Gulliver's Travels,Jonathan Swift,1726,920,738,139,3.6136363,88,non-fiction,2026-04-25
+10,The Phantom Tollbooth,Norton Juster,1961,902,693,143,4.1568627,102,non-fiction,2026-04-25
+11,Biology,Neil Alexander Campbell,1987,887,789,33,3.88,25,non-fiction,2026-04-25
+12,Le Deuxième Sexe,Simone de Beauvoir,1949,853,746,35,4.0588236,17,non-fiction,2026-04-25
+13,Goodnight Moon,Margaret Wise Brown,1947,838,641,151,4.0735292,68,non-fiction,2026-04-25
+14,The Hound of the Baskervilles,Arthur Conan Doyle,1900,718,550,121,4.0,59,non-fiction,2026-04-25
+15,The Selfish Gene,Richard Dawkins,1976,626,504,93,4.352113,71,non-fiction,2026-04-25
+16,The Yellow Wallpaper,"Charlotte Perkins Gilman, Aric Cushing, Logan Thomas, SparkNotes, Bryan Hunt, A. J. Alexander, Steven Stern, Aileen Oracion, Twisted Classics, Anne Geer, Sara Barkat, Period Time Publishing, Félix Gerónimo, AGUSTIN LOPEZ TOBAJAS, Nicolae Sfetcu, Erminia Passannanti",1892,611,440,142,4.12987,77,non-fiction,2026-04-25
+17,Everything is F*cked,"Mark Manson, Carlos Ramos Malavé",2019,584,536,29,3.631579,19,non-fiction,2026-04-25
+18,Danse Macabre,Stephen King,1980,513,396,100,3.858407,113,non-fiction,2026-04-25
+19,El túnel,Ernesto Sabato,1948,448,357,56,4.138889,36,non-fiction,2026-04-25
+20,Lilith,George MacDonald,1895,424,384,13,3.5,6,non-fiction,2026-04-25
+21,Advanced Engineering Mathematics,Erwin Kreyszig,1957,357,313,11,4.0,12,non-fiction,2026-04-25
+22,Fun Home,Alison Bechdel,2000,357,258,89,4.0961537,52,non-fiction,2026-04-25
+23,Hillbilly Elegy,J. D. Vance,2016,346,271,62,3.707317,41,non-fiction,2026-04-25
+24,"Oh, the Places You'll Go!",Dr. Seuss,1990,337,229,94,4.0545454,55,non-fiction,2026-04-25
+25,The Tommyknockers,Stephen King,1985,330,253,64,4.1666665,18,non-fiction,2026-04-25
+26,The Classic Tale of the Velveteen Rabbit,Margery Williams Bianco,1900,319,228,79,4.125,40,non-fiction,2026-04-25
+27,Evicted,"Matthew Desmond, Enrique Maldonado Roldn",2016,246,202,31,4.3157897,19,non-fiction,2026-04-25
+28,La vérité sur l'affaire Harry Quebert,Joël Dicker,2012,243,194,30,4.0416665,24,non-fiction,2026-04-25
+29,Rotkäppchen,"Charles Perrault, Gebrüder Grimm [Brothers Grimm]",1945,199,177,13,3.4,5,non-fiction,2026-04-25
+30,The Way Things Work,David Macaulay,1988,197,176,13,4.2222223,9,non-fiction,2026-04-25
+31,His Dark Materials,Philip Pullman,2000,189,133,47,3.9615386,26,non-fiction,2026-04-25
+32,Hyperbole and a Half,Allie Brosh,1900,180,126,52,4.3636365,44,non-fiction,2026-04-25
+33,The golden bough,"James George Frazer, Theodor Herzl Gaster, George W. Stocking",1890,166,154,6,3.8,5,non-fiction,2026-04-25
+34,Motivation and goal-setting,"Jim Cairo, Inc. National Press Publications",1989,163,154,5,3.6666667,3,non-fiction,2026-04-25
+35,Alive!,Piers Paul Read,1920,162,134,20,3.8333333,12,non-fiction,2026-04-25
+36,Why I'm No Longer Talking to White People About Race,"Reni Eddo-Lodge, Ana Camallonga",2017,150,125,24,3.7777777,18,non-fiction,2026-04-25
+37,The White Dragon,Anne McCaffrey,1978,141,94,46,4.25,20,non-fiction,2026-04-25
+38,The Lincoln Lawyer (Mickey Haller #1),Michael Connelly,1895,140,113,25,3.9166667,12,non-fiction,2026-04-25
+39,"Carry on, Mr. Bowditch",Jean Lee Latham,1955,138,106,24,4.181818,11,non-fiction,2026-04-25
+40,Never Cry Wolf,Farley Mowat,1963,137,113,11,4.2,5,non-fiction,2026-04-25
+41,Body Language,Julius Fast,1970,129,113,6,5.0,2,non-fiction,2026-04-25
+42,"Eats, Shoots & Leaves",Lynne Truss,2003,113,74,36,3.68,25,non-fiction,2026-04-25
+43,Jude the Obscure,Thomas Hardy,1895,111,86,17,3.909091,11,non-fiction,2026-04-25
+44,My Teacher Is an Alien,Bruce Coville,1989,106,88,12,1.6666666,3,non-fiction,2026-04-25
+45,Down Under (In a Sunburned Country),Bill Bryson,2000,104,72,27,3.7857144,14,non-fiction,2026-04-25
+46,The Magic School Bus,Joanna Cole,1990,100,79,15,4.2,5,non-fiction,2026-04-25
+47,Ancient Egypt (DK Eyewitness),"Hart, George, George Hart, George Hart, DK Publishing",1990,98,83,6,5.0,3,non-fiction,2026-04-25
+48,Tales from Shakespeare [20 tales],"Charles Lamb, Mary Lamb",1800,91,72,6,4.0,3,non-fiction,2026-04-25
+49,The Visitor,Katherine Applegate,1996,90,64,24,4.4,5,non-fiction,2026-04-25
+50,The Hunting of the Snark,Lewis Carroll,1876,89,75,13,4.8,5,non-fiction,2026-04-25
+51,At the Back of the North Wind,George MacDonald,1871,79,69,8,4.3333335,3,non-fiction,2026-04-25
+52,The Naked Ape,Desmond Morris,1772,79,55,17,3.6666667,9,non-fiction,2026-04-25
+53,Odd Girls and Twilight Lovers,Lillian Faderman,1991,76,70,4,4.0,1,non-fiction,2026-04-25
+54,Riddley Walker,Russell Hoban,1980,73,60,10,4.8,5,non-fiction,2026-04-25
+55,The Ipcress File,Len Deighton,1962,72,55,12,3.5,4,non-fiction,2026-04-25
+56,Deep Blue,"Jennifer Donnelly, Bea Miller",1782,71,59,5,4.6666665,3,non-fiction,2026-04-25
+57,A Theory of Everything,Ken Wilber,2000,68,64,3,4.0,1,non-fiction,2026-04-25
+58,Freshwater,Akwaeke Emezi,2018,67,54,13,3.5833333,12,non-fiction,2026-04-25
+59,The Mystery of the Periodic Table,"Benjamin D. Wiker, Benjamin Wiker, Jeanne Bendick",2003,65,59,3,,0,non-fiction,2026-04-25
+60,"Good dog, Carl",Alexandra Day,1985,63,40,21,4.5,4,non-fiction,2026-04-25
+61,On the stairs,"Julie Hofstrand Larios, Mary Hofstrand",1995,62,53,8,4.0,1,non-fiction,2026-04-25
+62,The Age of Arthur,John Morris,1973,61,49,10,3.8888888,9,non-fiction,2026-04-25
+63,الروض العاطر في نزهة الخاطر,ʻUmar ibn Muḥammad Nafzāwī,1886,60,54,3,3.3333333,3,non-fiction,2026-04-25
+64,Sirah Nabawiyah,Dr.Muhammad Sa'id Ramadhan Al-Buthy,2012,58,41,14,5.0,2,non-fiction,2026-04-25
+65,Death in the afternoon,Ernest Hemingway,1920,58,41,12,3.375,8,non-fiction,2026-04-25
+66,"The History of Rasselas, Prince of Abyssinia",Samuel Johnson,1759,58,55,1,5.0,1,non-fiction,2026-04-25
+67,The One Plus One,Jojo Moyes,2014,57,49,7,4.75,4,non-fiction,2026-04-25
+68,The cocktail party,T. S. Eliot,1950,57,47,6,4.0,2,non-fiction,2026-04-25
+69,The Secret in the Old Attic,Carolyn Keene,1944,56,43,12,4.0,4,non-fiction,2026-04-25
+70,The Know,Martina Cole,2003,56,46,4,,0,non-fiction,2026-04-25
+71,Riders of the Purple Sage,Zane Grey,1912,56,41,9,4.0,4,non-fiction,2026-04-25
+72,Night Watch,Sarah Waters,2006,55,48,6,3.0,2,non-fiction,2026-04-25
+73,A queer history of the United States,Michael Bronski,2011,55,51,1,4.0,1,non-fiction,2026-04-25
+74,70 Motivasi Kehidupan,"Fuad Sam, Norazizah Abdul Rahman, Noor Ashikin Mohd Yusop",2014,54,40,9,4.0,7,non-fiction,2026-04-25
+75,Rumpelstiltskin,"Gebrüder Grimm [Brothers Grimm], B. Watts, Jacob Grimm",1945,53,49,4,5.0,1,non-fiction,2026-04-25
+76,Mike Mulligan and His Steam Shovel,Virginia Lee Burton,1939,52,39,12,4.3333335,6,non-fiction,2026-04-25
+77,The portable Dorothy Parker,"Dorothy Parker, Brendan Gill",1973,49,38,6,3.6,5,non-fiction,2026-04-25
+78,Where Did I Come From?,Peter Mayle,1975,49,46,2,5.0,1,non-fiction,2026-04-25
+79,The Return of Tarzan,Edgar Rice Burroughs,1915,49,32,17,3.7777777,9,non-fiction,2026-04-25
+80,Actual Size,Steve Jenkins,1900,47,43,3,,0,non-fiction,2026-04-25
+81,Cat and a Dog,"Claire Masurel, Bob Kolar",2001,47,35,12,5.0,1,non-fiction,2026-04-25
+82,"QUEEN OF SORCERY (Eddings, David. , the Belgariad, Bk. 2.)",David Eddings,1982,45,39,6,5.0,1,non-fiction,2026-04-25
+83,Just one look,Harlan Coben,2001,44,31,12,5.0,1,non-fiction,2026-04-25
+84,Salammbô,Gustave Flaubert,1863,44,36,6,3.75,4,non-fiction,2026-04-25
+85,Mrs. Mike,"Benedict Freedman, Nancy Freedman",1947,43,32,8,5.0,2,non-fiction,2026-04-25
+86,The Last Honest Woman,Nora Roberts,1988,43,29,12,3.25,4,non-fiction,2026-04-25
+87,Rainbow Magic Books 1-7 Boxset,Daisy Meadows,2005,43,33,8,3.3333333,6,non-fiction,2026-04-25
+88,The ship who searched,"Anne McCaffrey, Mercedes Lackey",1992,43,33,10,5.0,5,non-fiction,2026-04-25
+89,Every sewer's guide to the perfect fit,"Mary Morris, Mary Morris, Sally McCann",1997,43,41,1,,0,non-fiction,2026-04-25
+90,Java Concurrency in Practice,"Brian Goetz, Joshua Bloch, Joseph Bowbeer, Doug Lea, David Holmes, Tim Peierls",2006,42,30,10,4.25,8,non-fiction,2026-04-25
+91,The Rogue Knight,Brandon Mull,2014,42,40,1,3.0,2,non-fiction,2026-04-25
+92,Effi Briest,Theodor Fontane,1894,42,30,11,3.3333333,6,non-fiction,2026-04-25
+93,Between Two Kingdoms,Suleika Jaouad,2020,40,37,3,3.6666667,3,non-fiction,2026-04-25
+94,A rose for her grave,Ann Rule,1993,40,34,2,,0,non-fiction,2026-04-25
+95,Finding Winnie,Lindsay Mattick,2015,40,28,10,4.75,4,non-fiction,2026-04-25
+96,Dragons of Autumn Twilight,"Margaret Weis, Tracy Hickman",2006,39,34,5,5.0,2,non-fiction,2026-04-25
+97,Leaving Time,Jodi Picoult,2014,39,30,9,3.4444444,9,non-fiction,2026-04-25
+98,The Nix,Nathan Hill,2016,38,23,13,4.25,12,non-fiction,2026-04-25
+99,A dark-adapted eye,"Ruth Rendell, Harriet Walter, Richard Bravery",1986,38,27,8,4.25,4,non-fiction,2026-04-25
+100,The Bermuda Triangle,Charles Berlitz,1974,38,31,4,3.0,1,non-fiction,2026-04-25
+101,The emperor's new clothes,"Hans Christian Andersen, Ève Tharlet, Jeffrey Stewart Timmins, Stephanie True Peters",1945,38,30,5,3.6666667,3,non-fiction,2026-04-25
+102,A concise history of the Russian Revolution,Richard Pipes,1995,37,35,2,,0,non-fiction,2026-04-25
+103,Alex rider,Anthony Horowitz,2005,36,35,0,,0,non-fiction,2026-04-25
+104,Europe since 1870,James Joll,1973,36,29,5,1.0,2,non-fiction,2026-04-25
+105,Good Talk,Mira Jacob,2019,35,29,5,4.0,5,non-fiction,2026-04-25
+106,Frozen in time,"Owen Beattie, O. Beattie, J. Geiger, John Geiger",1987,35,29,3,3.0,2,non-fiction,2026-04-25
+107,Trash,Andy Mulligan,2010,34,29,3,4.5,2,non-fiction,2026-04-25
+108,Lawless,Nora Roberts,1989,33,23,10,3.3333333,3,non-fiction,2026-04-25
+109,Memorias de Idhún,Laura Gallego,2004,33,26,6,4.0,4,non-fiction,2026-04-25
+110,A Gathering of Days,Joan W. Blos,1979,33,25,6,3.6666667,3,non-fiction,2026-04-25
+111,The Lost World,"Gail Herman, Gail Herman",1997,32,7,25,4.0,20,non-fiction,2026-04-25
+112,Mao's last dancer,"Li, Cunxin",2003,32,23,6,3.3333333,3,non-fiction,2026-04-25
+113,Doomsday Conspiracy,Sidney Sheldon,1991,32,20,5,4.3333335,3,non-fiction,2026-04-25
+114,The View from the Cherry Tree,Willo Davis Roberts,1975,31,26,2,5.0,1,non-fiction,2026-04-25
+115,"Nobody Is Ever Missing, A Novel",Catherine Lacey,2014,31,27,4,3.25,4,non-fiction,2026-04-25
+116,How We Fight For Our Lives,Saeed Jones,2019,31,30,1,5.0,2,non-fiction,2026-04-25
+117,Historia verdadera de la conquista de la Nueva España,Bernal Díaz del Castillo,1632,31,27,2,2.0,2,non-fiction,2026-04-25
+118,"Ar-Rahiq Al-Makhtum, Sirah Nabawiyah",Syaikh Shafiyyurrahman Al-Mubarakfuri,2019,30,24,3,4.0,3,non-fiction,2026-04-25
+119,Filsafat Hukum Islam,Subhi Mahmassani,2011,29,21,7,1.0,1,non-fiction,2026-04-25
+120,Sky Color,Peter H. Reynolds,2012,28,24,4,4.0,1,non-fiction,2026-04-25
+121,The sword of Shannara trilogy,Terry Brooks,1976,27,25,2,5.0,1,non-fiction,2026-04-25
+122,A survey of mathematics with applications,"Allen R. Angel, Christine D. Abbott, Dennis Runde",1985,27,24,1,1.0,1,non-fiction,2026-04-25
+123,How to Survive a Plague,David France,2016,27,25,2,5.0,2,non-fiction,2026-04-25
+124,Andrew's Loose Tooth,Robert N Munsch,1998,27,19,6,4.3333335,3,non-fiction,2026-04-25
+125,Los templarios,Piers Paul Read,1995,27,24,2,,0,non-fiction,2026-04-25
+126,De vita Caesarum,Suetonius,1470,27,24,2,,0,non-fiction,2026-04-25
+127,Hijab Butch Blues,Lamya H,2023,26,21,5,5.0,1,non-fiction,2026-04-25
+128,Love for a Deaf Rebel,Derrick King,2021,26,19,3,4.6666665,3,non-fiction,2026-04-25
+129,"The Beasts of Tarzan (Classic Ace SF, F-203)",Edgar Rice Burroughs,1914,26,16,9,4.0,5,non-fiction,2026-04-25
+130,Lola the elf,"Diane De Groat, Diane deGroat",2002,26,20,4,2.0,1,non-fiction,2026-04-25
+131,Evolution's Rainbow,Joan Roughgarden,2004,25,22,2,4.0,1,non-fiction,2026-04-25
+132,O Christos xanastavronetai,Nikos Kazantzakis,1901,25,23,0,,0,non-fiction,2026-04-25
+133,You Wouldn't Want to be a Medieval Knight,Fiona MacDonald,2004,24,19,5,5.0,1,non-fiction,2026-04-25
+134,Fleshmarket Close,"Ian Rankin, Francisco Martín Arribas",2004,24,16,8,3.8,5,non-fiction,2026-04-25
+135,Terrific trains,"Tony Mitton, Ant Parker",1998,23,15,7,2.0,1,non-fiction,2026-04-25
+136,I Lost My Way:,Yasmin Mogahed,2021,22,20,0,,0,non-fiction,2026-04-25
+137,Love Stories from the Qur’an,"Yahya Ibrahim, Yahya Ibrahim",2020,22,20,1,5.0,1,non-fiction,2026-04-25
+138,Fiqih Wanita,Muhammad Athiyah Khumais,2011,22,18,2,,0,non-fiction,2026-04-25
+139,This moose belongs to me,Oliver Jeffers,2012,22,17,5,4.3333335,3,non-fiction,2026-04-25
+140,"My father, the dog",Elizabeth Bluemle,2006,22,13,9,5.0,3,non-fiction,2026-04-25
+141,Dinosaurs,Stephanie Turnbull,2003,22,18,3,4.0,1,non-fiction,2026-04-25
+142,Choose Your Own Adventure - Captive!,"Bill Hampton, LuAnn Hampton",1989,22,20,2,,0,non-fiction,2026-04-25
+143,Tarzan and the Jewels of Opar,Edgar Rice Burroughs,1916,22,12,9,4.0,4,non-fiction,2026-04-25
+144,Brazen,Pénélope Bagieu,2018,21,17,4,4.5,2,non-fiction,2026-04-25
+145,The Burning Room,Michael Connelly,2014,21,7,14,3.8888888,9,non-fiction,2026-04-25
+146,East of the sun & west of the moon,Mercer Mayer,1980,21,15,6,4.0,3,non-fiction,2026-04-25
+147,Discovery in the cave,Mark Dubowski,2010,21,18,3,5.0,1,non-fiction,2026-04-25
+148,The Son of Tarzan,Edgar Rice Burroughs,1915,21,12,7,5.0,1,non-fiction,2026-04-25
+149,Who Was Neil Armstrong?,"Roberta Edwards, Who HQ",2008,20,15,2,5.0,1,non-fiction,2026-04-25
+150,Who Was Clara Barton?,"Stephanie Spinner, Who HQ",2014,20,18,2,1.0,1,non-fiction,2026-04-25
+
+
+1,It,Stephen King,1986,11642,10387,600,4.0879345,489,horror,2026-04-25
+2,The Lightning Thief,Rick Riordan,2005,6685,5345,802,4.2908163,392,horror,2026-04-25
+3,Twilight,Stephenie Meyer,2005,6138,5097,647,3.6611373,422,horror,2026-04-25
+4,The Hobbit,J.R.R. Tolkien,1937,4871,3717,803,4.2860084,486,horror,2026-04-25
+5,Fahrenheit 451,Ray Bradbury,1953,4249,3390,687,3.9765809,427,horror,2026-04-25
+6,The Shining,Stephen King,1977,3543,2902,430,4.181818,275,horror,2026-04-25
+7,Misery,Stephen King,1978,3009,2589,280,4.1678834,137,horror,2026-04-25
+8,Coraline,Neil Gaiman,2001,2984,2583,288,4.030457,197,horror,2026-04-25
+9,Carrie,Stephen King,1974,2838,2354,343,4.0,161,horror,2026-04-25
+10,Pet Sematary,Stephen King,1983,2637,2238,279,4.0526314,171,horror,2026-04-25
+11,Frankenstein or The Modern Prometheus,Mary Shelley,1818,2436,1868,413,3.967742,217,horror,2026-04-25
+12,Dracula,Bram Stoker,1897,2361,1816,366,4.043716,183,horror,2026-04-25
+13,The Picture of Dorian Gray,Oscar Wilde,1890,2059,1600,308,4.1512604,119,horror,2026-04-25
+14,American Psycho,"Bret Easton Ellis, Mariano Antolín Rato",1991,1987,1776,121,3.8645833,96,horror,2026-04-25
+15,The Invisible Man,H. G. Wells,0,1982,1662,190,3.8018868,106,horror,2026-04-25
+16,The Eyes of Darkness,Dean Koontz,1981,1922,1614,162,3.8682635,167,horror,2026-04-25
+17,The Green Mile,Stephen King,1996,1678,1387,212,4.3365383,104,horror,2026-04-25
+18,'Salem’s Lot,Stephen King,1975,1645,1367,216,4.010638,94,horror,2026-04-25
+19,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,1875,1493,1154,275,3.9503546,141,horror,2026-04-25
+20,The Stand,Stephen King,1978,1427,1184,183,4.329412,85,horror,2026-04-25
+21,The Gunslinger,Stephen King,1976,1340,1121,161,4.046154,65,horror,2026-04-25
+22,Flowers in the Attic,V.C. Andrews,1979,1305,1124,120,4.042857,70,horror,2026-04-25
+23,The Silver Eyes (Five Nights At Freddy's #1),"Scott Cawthon, Kira Breed-Wrisley",2001,1206,1068,64,4.5753427,73,horror,2026-04-25
+24,New Moon,Stephenie Meyer,2006,1164,891,197,3.9605262,76,horror,2026-04-25
+25,City of Bones,Cassandra Clare,2007,1159,937,160,3.9,90,horror,2026-04-25
+26,The Road,Cormac McCarthy,2006,1129,876,227,3.874214,159,horror,2026-04-25
+27,Northern Lights,Philip Pullman,1995,1122,771,309,3.9506726,223,horror,2026-04-25
+28,Interview With the Vampire,Anne Rice,1976,1111,906,149,3.9230769,91,horror,2026-04-25
+29,The Bachman Books (Long Walk / Rage / Roadwork / Running Man),Stephen King,1985,1086,828,178,3.8666666,165,horror,2026-04-25
+30,Maus I,Art Spiegelman,1986,1067,815,217,4.49359,156,horror,2026-04-25
+31,House of Leaves,Mark Z. Danielewski,1998,1021,894,95,4.3333335,63,horror,2026-04-25
+32,Insomnia,Stephen King,1994,990,798,146,3.878788,99,horror,2026-04-25
+33,On Writing,Stephen King,1999,977,793,136,4.1375,80,horror,2026-04-25
+34,A Christmas Carol,"Charles Dickens, Groth, Nancy Baker",1843,971,710,206,3.9423077,104,horror,2026-04-25
+35,Breaking Dawn,Stephenie Meyer,2000,964,705,217,3.4311926,109,horror,2026-04-25
+36,The Magician's Nephew,C. S. Lewis,1955,940,700,205,4.037736,106,horror,2026-04-25
+37,The Long Walk,Stephen King,1979,854,745,91,3.9574468,47,horror,2026-04-25
+38,Cujo,Stephen King,1981,850,695,121,3.8043478,46,horror,2026-04-25
+39,The Haunting of Hill House,Shirley Jackson,1959,834,670,133,3.9594595,74,horror,2026-04-25
+40,The Awakening,Lisa Jane Smith,1991,828,746,35,4.0333333,30,horror,2026-04-25
+41,Cell,Stephen King,2006,809,628,148,3.644628,121,horror,2026-04-25
+42,The Silence of the Lambs,Thomas Harris,1988,791,675,79,4.173913,46,horror,2026-04-25
+43,Miss Peregrine's Home for Peculiar Children,Ransom Riggs,2011,773,628,111,4.4390244,41,horror,2026-04-25
+44,Skeleton crew,Stephen King,1985,772,651,91,4.212121,33,horror,2026-04-25
+45,Carmilla,Sheridan Le Fanu,1871,714,588,99,3.9322033,59,horror,2026-04-25
+46,The Graveyard Book,Neil Gaiman,2008,702,509,172,4.1900826,121,horror,2026-04-25
+47,Night Shift,Stephen King,1960,693,595,71,4.3846154,26,horror,2026-04-25
+48,Red Dragon,Thomas Harris,1981,687,577,65,4.285714,35,horror,2026-04-25
+49,The Exorcist,William Peter Blatty,1971,686,590,55,4.090909,22,horror,2026-04-25
+50,Needful Things,Stephen King,1991,677,546,96,4.225806,31,horror,2026-04-25
+51,The Dead Zone,Stephen King,1979,674,533,120,4.1086955,46,horror,2026-04-25
+52,World War Z,Max Brooks,2006,671,458,178,3.8955224,134,horror,2026-04-25
+53,Mr. Mercedes,"Stephen King, Stephen king, Ingah Mikhaʼeli",2013,662,523,103,4.12,50,horror,2026-04-25
+54,Le fantôme de l'opéra,Gaston Leroux,1911,655,556,69,3.875,40,horror,2026-04-25
+55,Cadáver exquisito,Agustina Bazterrica,2015,645,594,33,3.8636363,22,horror,2026-04-25
+56,The Bazaar of Bad Dreams,Stephen King,2015,620,542,53,4.032258,31,horror,2026-04-25
+57,Welcome to Dead House,Robert Lawrence Stine,1992,617,493,82,4.3333335,36,horror,2026-04-25
+58,The Yellow Wallpaper,"Charlotte Perkins Gilman, Aric Cushing, Logan Thomas, SparkNotes, Bryan Hunt, A. J. Alexander, Steven Stern, Aileen Oracion, Twisted Classics, Anne Geer, Sara Barkat, Period Time Publishing, Félix Gerónimo, AGUSTIN LOPEZ TOBAJAS, Nicolae Sfetcu, Erminia Passannanti",1892,611,440,142,4.12987,77,horror,2026-04-25
+59,Wolves of the Calla,Stephen King,2003,605,380,205,4.0572915,192,horror,2026-04-25
+60,Christine,Stephen King,1983,601,463,115,4.0425534,47,horror,2026-04-25
+61,The Ocean at the End of the Lane,"Neil Gaiman, Mónica Faerna, Patrick Marcel, Lluís Delgado, Oriol Hernández",2013,599,417,166,4.0877194,114,horror,2026-04-25
+62,The Witching Hour,Anne Rice,1990,589,526,41,4.3461537,26,horror,2026-04-25
+63,The New Girl,Robert Lawrence Stine,1989,579,487,67,4.0416665,24,horror,2026-04-25
+64,"Full Dark, No Stars",Stephen King,2010,577,485,67,4.071429,42,horror,2026-04-25
+65,Firestarter,Stephen King,1980,576,469,81,3.925926,27,horror,2026-04-25
+66,Gerald's Game,Stephen King,1992,571,462,85,3.7575758,33,horror,2026-04-25
+67,We Have Always Lived in the Castle,"Shirley Jackson, Bernadette Dunne",1962,564,447,100,4.3207545,53,horror,2026-04-25
+68,Her Soul to Take,Harley Laroux,2021,555,512,14,4.5555553,9,horror,2026-04-25
+69,The Locked Door,Freida McFadden,2021,555,491,29,3.5555556,18,horror,2026-04-25
+70,A Torre Negra,Stephen King,1991,552,382,150,4.1764708,85,horror,2026-04-25
+71,Bag of Bones,Stephen King,1998,549,425,89,3.9444444,36,horror,2026-04-25
+72,The Drawing of the Three,Stephen King,1987,545,353,172,4.181818,99,horror,2026-04-25
+73,Doctor Sleep,"Stephen King, José Óscar Hernández Sendin",2013,533,430,88,4.2093024,43,horror,2026-04-25
+74,The Vampire Lestat,Anne Rice,1986,520,400,92,4.3777776,45,horror,2026-04-25
+75,Annihilation,Jeff VanderMeer,2014,520,354,149,3.631579,95,horror,2026-04-25
+76,Thinner,Stephen King,1984,520,385,107,3.5151515,33,horror,2026-04-25
+77,Different Seasons,Stephen King,1982,519,446,55,4.5789475,19,horror,2026-04-25
+78,The Screaming Staircase,Jonathan Stroud,2013,518,454,36,4.5238094,21,horror,2026-04-25
+79,Danse Macabre,Stephen King,1980,513,396,100,3.858407,113,horror,2026-04-25
+80,The Raven,Edgar Allan Poe,1845,509,388,108,4.4666667,60,horror,2026-04-25
+81,Five Nights at Freddy's Character Encyclopedia (an AFK Book) (Media Tie-In),Scott Cawthon,2023,503,469,14,4.0740743,27,horror,2026-04-25
+82,The Eyes of the Dragon,Stephen King,1959,502,402,76,4.32,25,horror,2026-04-25
+83,Four Past Midnight,Stephen King,1990,485,389,66,3.95,20,horror,2026-04-25
+84,The Butterfly Garden,Dot Hutchison,2016,481,439,15,3.5384614,13,horror,2026-04-25
+85,The Island of Dr. Moreau,H. G. Wells,1896,478,376,80,3.6938775,49,horror,2026-04-25
+86,The Murders in the Rue Morgue,Edgar Allan Poe,1841,477,408,39,4.2380953,21,horror,2026-04-25
+87,Neverwhere,Neil Gaiman,1996,476,297,166,4.0901637,122,horror,2026-04-25
+88,Things Have Gotten Worse Since We Last Spoke,Eric LaRocca,2021,476,449,16,3.3,10,horror,2026-04-25
+89,The Girl Who Loved Tom Gordon,Stephen King,1999,472,378,80,3.612903,31,horror,2026-04-25
+90,Gideon the Ninth,Tamsyn Muir,2019,470,367,92,4.2608695,69,horror,2026-04-25
+91,Rose Madder,Stephen King,1995,470,375,73,4.172414,29,horror,2026-04-25
+92,The Stepford Wives,Ira Levin,1972,465,366,83,3.6666667,30,horror,2026-04-25
+93,The Subtle Knife,Philip Pullman,1997,461,281,173,4.009524,105,horror,2026-04-25
+94,Something Wicked This Way Comes,Ray Bradbury,1962,458,380,61,4.09375,32,horror,2026-04-25
+95,Northanger Abbey,Jane Austen,1818,448,342,86,3.878049,41,horror,2026-04-25
+96,Wizard and Glass,Stephen King,1997,447,294,134,4.0945945,74,horror,2026-04-25
+97,Say Cheese and Die!,Robert Lawrence Stine,1992,447,375,55,4.0,24,horror,2026-04-25
+98,Hearts in Atlantis,Stephen King,1998,441,334,89,3.9117646,34,horror,2026-04-25
+99,Everything's Eventual. 14 Dark Tales,Stephen King,2002,440,358,68,3.8846154,26,horror,2026-04-25
+100,Scary stories to tell in the dark,Alvin Schwartz,1981,437,377,49,3.96,25,horror,2026-04-25
+101,Jaws,Peter Benchley,1973,427,348,42,4.3913045,23,horror,2026-04-25
+102,Suicide Med,Freida McFadden,2014,423,353,27,4.142857,14,horror,2026-04-25
+103,Just After Sunset,Stephen King,2008,418,348,54,4.125,40,horror,2026-04-25
+104,Lisey's Story,Stephen King,2006,404,337,45,3.7272727,22,horror,2026-04-25
+105,Bunnicula,"Deborah Howe, James Howe",1979,402,340,38,4.173913,23,horror,2026-04-25
+106,The Tell-Tale Heart,Edgar Allan Poe,1958,392,281,96,4.203704,54,horror,2026-04-25
+107,The Turn of the Screw,Henry James,1898,390,306,70,3.65,40,horror,2026-04-25
+108,Dreamcatcher,Stephen King,2001,389,296,79,3.5,36,horror,2026-04-25
+109,Goosebumps - Deep Trouble,Robert Lawrence Stine,1994,379,335,21,3.0833333,12,horror,2026-04-25
+110,Petals on the Wind,V.C. Andrews,1980,378,315,44,4.0,13,horror,2026-04-25
+111,The Struggle,Lisa Jane Smith,1991,376,331,26,4.571429,21,horror,2026-04-25
+112,The Institute,Stephen King,2019,371,320,40,3.857143,14,horror,2026-04-25
+113,Stuart Little,E. B. White,1945,366,295,46,3.5,28,horror,2026-04-25
+114,The Passage,Justin Cronin,2010,360,293,54,3.85,40,horror,2026-04-25
+115,Goosebumps - Vanishing collection,Robert Lawrence Stine,2004,359,306,15,4.4444447,9,horror,2026-04-25
+116,The Amber Spyglass,Philip Pullman,1999,359,184,170,3.8611112,108,horror,2026-04-25
+117,The King in Yellow,Robert W. Chambers,1895,358,302,27,3.9375,16,horror,2026-04-25
+118,Damián,Alex Mírez,2022,351,305,15,4.4210525,19,horror,2026-04-25
+119,The Illustrated Man,Ray Bradbury,1951,340,276,58,4.1025643,39,horror,2026-04-25
+120,Desperation,Stephen King,1996,340,274,54,4.4,15,horror,2026-04-25
+121,The Queen of the Damned,Anne Rice,1988,338,260,67,3.84375,32,horror,2026-04-25
+122,Heaven,V.C. Andrews,1985,337,303,20,4.2,10,horror,2026-04-25
+123,Duma Key,Stephen King,2008,335,236,85,4.019608,51,horror,2026-04-25
+124,Song of Susannah,Stephen King,1999,334,214,106,4.237288,59,horror,2026-04-25
+125,Satan's Affair,H. D. Carlton,2021,334,300,12,3.3333333,9,horror,2026-04-25
+126,The Legend of Sleepy Hollow,Washington Irving,1820,333,271,50,4.125,24,horror,2026-04-25
+127,The Tommyknockers,Stephen King,1985,330,253,64,4.1666665,18,horror,2026-04-25
+128,I'm Thinking of Ending Things,Iain Reid,2016,322,283,25,3.4,10,horror,2026-04-25
+129,The Running Man,Stephen King,1982,318,235,72,3.7027028,37,horror,2026-04-25
+130,Storm of the Century,Stephen King,1999,316,268,30,3.9230769,13,horror,2026-04-25
+131,Mexican Gothic,Silvia Moreno-Garcia,2020,314,276,31,4.1904764,21,horror,2026-04-25
+132,The Sleepwalker,Robert Lawrence Stine,1990,313,249,51,3.8888888,9,horror,2026-04-25
+133,Small Gods,"Terry Pratchett, Ray Friesen",1992,312,191,115,4.236111,72,horror,2026-04-25
+134,Novels (Black House / Talisman),"Stephen King, Peter Straub",2002,308,229,66,4.075,40,horror,2026-04-25
+135,Semilla del Diablo,Ira Levin,1900,307,255,44,4.0,22,horror,2026-04-25
+136,Fear Street - Sunburn,Robert Lawrence Stine,1993,303,240,56,3.857143,14,horror,2026-04-25
+137,Fear Street - The Overnight,Robert Lawrence Stine,1989,298,252,40,2.8888888,9,horror,2026-04-25
+138,The Amityville Horror,Jay Anson,1977,297,248,37,2.95,20,horror,2026-04-25
+139,Coraline,"P. Craig Russell, Neil Gaiman",2008,297,274,13,4.181818,11,horror,2026-04-25
+140,Bones & All,Camille DeAngelis,2015,296,278,3,5.0,1,horror,2026-04-25
+141,Dolores Claiborne,Stephen King,1992,295,216,73,3.392857,28,horror,2026-04-25
+142,Haunted,Robert Lawrence Stine,1990,291,248,36,3.857143,7,horror,2026-04-25
+143,Intensity,Dean Koontz,1985,286,230,44,3.5652175,23,horror,2026-04-25
+144,The Prom Queen,Robert Lawrence Stine,1992,285,244,36,4.3333335,9,horror,2026-04-25
+145,Monster Blood,Robert Lawrence Stine,1992,285,240,31,3.5,10,horror,2026-04-25
+146,The Stepsister,Robert Lawrence Stine,1990,285,234,42,4.230769,13,horror,2026-04-25
+147,A Certain Hunger,Chelsea G. Summers,2020,281,263,10,3.5,6,horror,2026-04-25
+148,Nightmares & Dreamscapes,Stephen King,1993,281,214,61,3.8888888,18,horror,2026-04-25
+149,Lights Out,Robert Lawrence Stine,1991,281,226,47,4.0555553,18,horror,2026-04-25
+150,The Power of Darkness,Edith Nesbit,2006,276,234,8,2.25,8,horror,2026-04-25
+
+
+1,Diary of a Wimpy Kid,Jeff Kinney,2007,7309,6159,570,4.1282053,429,humor,2026-04-25
+2,Harry Potter and the Chamber of Secrets,J. K. Rowling,1998,6428,5084,904,4.1858406,452,humor,2026-04-25
+3,"Red, White & Royal Blue",Casey McQuiston,2019,4617,4290,191,4.1555557,180,humor,2026-04-25
+4,Charlotte's Web,E. B. White,1952,4176,3310,539,4.0317073,410,humor,2026-04-25
+5,Matilda,Roald Dahl,1988,3037,2472,351,4.362264,265,humor,2026-04-25
+6,Charlie and the Chocolate Factory,Roald Dahl,1964,2853,2273,387,4.02974,269,humor,2026-04-25
+7,Dog Days,Jeff Kinney,2007,2424,2024,231,4.4779873,159,humor,2026-04-25
+8,The Hitch Hiker's Guide to the Galaxy,Douglas Adams,1979,2397,1901,384,4.5416665,168,humor,2026-04-25
+9,Alice's Adventures in Wonderland,Lewis Carroll,1865,2166,1706,330,4.063927,219,humor,2026-04-25
+10,Dog Man,Dav Pilkey,2015,2135,1835,120,4.42963,135,humor,2026-04-25
+11,The BFG,Roald Dahl,1980,1586,1281,204,4.094203,138,humor,2026-04-25
+12,Cabin Fever,Jeff Kinney,2007,1541,1242,186,4.511278,133,humor,2026-04-25
+13,Rodrick Rules,Jeff Kinney,2007,1538,1217,210,4.4144735,152,humor,2026-04-25
+14,Double Down,Jeff Kinney,2007,1537,1308,133,4.491071,112,humor,2026-04-25
+15,Adventures of Huckleberry Finn,Mark Twain,1876,1499,1069,355,3.9586778,242,humor,2026-04-25
+16,James and the Giant Peach,Roald Dahl,1961,1488,1176,205,3.9318182,132,humor,2026-04-25
+17,The Cat in the Hat,"Dr. Seuss, Simon Mugford",1957,1471,1179,208,4.1320753,106,humor,2026-04-25
+18,The Long Haul,Jeff Kinney,2014,1456,1198,159,4.3166666,120,humor,2026-04-25
+19,Guess How Much I Love You,"Sam McBratney, Anita Jeram",1994,1436,1152,197,4.337209,86,humor,2026-04-25
+20,Wrecking Ball,Jeff Kinney,2019,1364,1233,65,4.0,66,humor,2026-04-25
+21,Freakonomics,"Steven D. Levitt, Stephen J. Dubner, Andrea Montero Cusset",2005,1361,1070,220,3.8700564,177,humor,2026-04-25
+22,In Cold Blood,Truman Capote,1965,1324,1127,139,4.042105,95,humor,2026-04-25
+23,Good Omens,"Neil Gaiman, Terry Pratchett",1990,1276,1038,164,4.448276,87,humor,2026-04-25
+24,The Adventures of Tom Sawyer,Mark Twain,1817,1248,913,259,3.9671052,152,humor,2026-04-25
+25,The A.B.C. Murders,Agatha Christie,1936,1233,1060,117,4.0677967,59,humor,2026-04-25
+26,Diary of a Wimpy Kid,Jeff Kinney,2009,1230,1119,64,4.517857,56,humor,2026-04-25
+27,A short history of nearly everything,Bill Bryson,2003,1230,1036,140,4.158416,101,humor,2026-04-25
+28,Emma,Jane Austen,1815,1228,1026,131,3.9491525,59,humor,2026-04-25
+29,Green Eggs and Ham,Dr. Seuss,1960,1202,927,230,4.0704226,142,humor,2026-04-25
+30,As Good As Dead,Holly Jackson,2021,1195,1055,73,4.4545455,33,humor,2026-04-25
+31,The Hating Game,Sally Thorne,2016,1129,1025,51,3.6666667,27,humor,2026-04-25
+32,Sense and Sensibility,Jane Austen,1811,1098,913,114,3.8913043,46,humor,2026-04-25
+33,Diary of a Wimpy Kid,Jeff Kinney,2017,1082,944,83,4.6567163,67,humor,2026-04-25
+34,Old School,Jeff Kinney,2007,1077,882,126,4.5051546,97,humor,2026-04-25
+35,House of Hades,Rick Riordan,2013,1065,754,246,4.293103,116,humor,2026-04-25
+36,The Witches,Roald Dahl,1983,1062,829,167,4.1666665,90,humor,2026-04-25
+37,Hard Luck,Jeff Kinney,2013,999,817,123,4.1294117,85,humor,2026-04-25
+38,A Christmas Carol,"Charles Dickens, Groth, Nancy Baker",1843,971,710,206,3.9423077,104,humor,2026-04-25
+39,The Bad Beginning,Lemony Snicket,1999,969,766,152,4.2045455,88,humor,2026-04-25
+40,Don't Let the Pigeon Drive the Bus!,Mo Willems,2003,964,745,180,4.3444443,90,humor,2026-04-25
+41,The Deal,Elle Kennedy,2015,964,835,66,4.28,25,humor,2026-04-25
+42,Alice's Adventures in Wonderland / Through the Looking Glass,Lewis Carroll,1889,952,735,179,4.02,100,humor,2026-04-25
+43,Don Quijote de la Mancha,Miguel de Cervantes Saavedra,1600,929,792,82,3.8947368,57,humor,2026-04-25
+44,The Ugly Truth,Jeff Kinney,2010,923,735,136,4.2380953,84,humor,2026-04-25
+45,The Colour of Magic,Terry Pratchett,1983,921,625,254,3.9865773,149,humor,2026-04-25
+46,Gulliver's Travels,Jonathan Swift,1726,920,738,139,3.6136363,88,humor,2026-04-25
+47,Born a Crime,Trevor Noah,2016,914,777,84,4.5666666,60,humor,2026-04-25
+48,The Last Straw,Jeff Kinney,1995,880,668,154,4.130435,69,humor,2026-04-25
+49,Tales from a Not-so-talented Pop Star (Dork Diaries #3),Rachel Renée Russell,2008,875,738,74,4.266667,60,humor,2026-04-25
+50,Dog Man,Dav Pilkey,1999,872,758,61,4.5842695,89,humor,2026-04-25
+51,The Third Wheel,Jeff Kinney,2003,866,698,113,4.0972223,72,humor,2026-04-25
+52,En man som heter Ove,Fredrik Backman,2012,833,702,96,4.2753625,69,humor,2026-04-25
+53,Flatland,Edwin Abbott Abbott,1884,809,631,149,3.9081633,98,humor,2026-04-25
+54,The Adventures of Captain Underpants,Dav Pilkey,1997,797,669,77,4.2686567,67,humor,2026-04-25
+55,Мастер и Маргарита,Михаил Афанасьевич Булгаков,1966,747,567,141,4.1595745,94,humor,2026-04-25
+56,The Twits,Roald Dahl,1967,735,606,96,3.9454546,55,humor,2026-04-25
+57,The Wind in the Willows,Kenneth Grahame,1908,707,561,93,4.0740743,54,humor,2026-04-25
+58,World War Z,Max Brooks,2006,671,458,178,3.8955224,134,humor,2026-04-25
+59,Dork Diaries,Rachel Renée Russell,2009,650,563,45,4.2,45,humor,2026-04-25
+60,Snow Crash,Neal Stephenson,1992,637,373,240,4.068421,190,humor,2026-04-25
+61,Dork Diaries 7,Rachel Renée Russell,2014,631,514,80,4.3835616,73,humor,2026-04-25
+62,Through the Looking-Glass,Lewis Carroll,1865,606,487,90,4.053571,56,humor,2026-04-25
+63,Winnie-the-Pooh,A. A. Milne,1925,602,468,104,4.213333,75,humor,2026-04-25
+64,Fox in Socks,Dr. Seuss,1965,594,487,85,4.0,29,humor,2026-04-25
+65,George's Marvelous Medicine,Roald Dahl,1981,577,455,72,3.632653,49,humor,2026-04-25
+66,Candide,Voltaire,1746,566,403,141,3.9756098,82,humor,2026-04-25
+67,The Authoritative Calvin and Hobbes,Bill Watterson,1988,566,458,69,4.178571,56,humor,2026-04-25
+68,Cat's Cradle,Kurt Vonnegut,1963,565,383,161,3.961165,103,humor,2026-04-25
+69,La Divina Commedia,Dante Alighieri,1472,561,482,51,3.892857,28,humor,2026-04-25
+70,Uno siempre cambia al amor de su vida,Amalia Andrade Arango,2013,553,503,18,4.1923075,26,humor,2026-04-25
+71,Dog Man and Cat Kid,"Dav Pilkey, George Beard, Harold Hutchins, Jose Garibaldi",2017,552,482,32,4.1578946,38,humor,2026-04-25
+72,Dog Man Unleashed,Dav Pilkey,2016,551,478,32,4.034483,29,humor,2026-04-25
+73,Tales from a Not-So Friendly Frenemy,Rachel Renée Russell,2009,547,497,24,4.181818,44,humor,2026-04-25
+74,The Merchant of Venice,William Shakespeare,1600,519,395,100,4.0363636,55,humor,2026-04-25
+75,Dork Diaries 15,Rachel Renée Russell,2010,512,469,14,4.6153846,26,humor,2026-04-25
+76,"Il mio nome è Stilton, Geronimo Stilton",Elisabetta Dami,1999,509,427,43,4.0869565,23,humor,2026-04-25
+77,The Giving Tree,Shel Silverstein,1964,508,336,161,4.158416,101,humor,2026-04-25
+78,Dog Man,"Dav Pilkey, Jose Garibaldi",2021,508,458,23,4.6842103,38,humor,2026-04-25
+79,Crazy Rich Asians,Kevin Kwan,2013,507,435,48,4.1282053,39,humor,2026-04-25
+80,"""Surely You're Joking, Mr. Feynman""","Richard Phillips Feynman, Ralph Leighton",1984,502,353,130,4.205357,112,humor,2026-04-25
+81,Charlie and the Great Glass Elevator,Roald Dahl,1972,493,370,97,3.528302,53,humor,2026-04-25
+82,Mort,Terry Pratchett,1987,486,264,209,4.2204723,127,humor,2026-04-25
+83,"One Fish, Two Fish, Red Fish, Blue Fish",Dr. Seuss,1960,481,359,106,3.8983052,59,humor,2026-04-25
+84,"No, David!","David Shannon, Teresa Mlawer",1998,479,415,40,3.9,20,humor,2026-04-25
+85,Le avventure di Pinocchio,Carlo Collodi,1883,466,395,45,3.8181818,22,humor,2026-04-25
+86,How to train your dragon,Cressida Cowell,2003,457,398,33,4.137931,29,humor,2026-04-25
+87,The Importance of Being Earnest,Oscar Wilde,1893,452,346,98,4.126984,63,humor,2026-04-25
+88,Tales of a Fourth Grade Nothing,Judy Blume,1972,448,395,32,4.185185,27,humor,2026-04-25
+89,Big Nate Blasts Off!,Lincoln Peirce,2016,441,380,27,4.419355,31,humor,2026-04-25
+90,If You Give a Mouse a Cookie,Laura Joffe Numeroff,1985,440,374,56,4.0384617,26,humor,2026-04-25
+91,Guards! Guards!,Terry Pratchett,1989,440,234,187,4.350427,117,humor,2026-04-25
+92,Where the Sidewalk Ends,Shel Silverstein,1974,431,275,135,4.0869565,92,humor,2026-04-25
+93,A Confederacy of Dunces,John Kennedy Toole,1980,421,275,128,3.7529411,85,humor,2026-04-25
+94,Dog Man,Dav Pilkey,2016,418,381,23,4.0625,32,humor,2026-04-25
+95,"Danny, The Champion of the World",Roald Dahl,1975,406,318,54,4.2222223,36,humor,2026-04-25
+96,The Restaurant at the End of the Universe,Douglas Adams,1980,404,262,123,4.25641,39,humor,2026-04-25
+97,Pippi Långstrump,Astrid Lindgren,1945,402,332,57,3.6,25,humor,2026-04-25
+98,Bunnicula,"Deborah Howe, James Howe",1979,402,340,38,4.173913,23,humor,2026-04-25
+99,Big Nate in the Zone,Lincoln Peirce,2007,399,357,19,4.3333335,21,humor,2026-04-25
+100,Bridget Jones's Diary,"Helen Fielding, Helen Fielding",1996,396,301,79,3.5849056,53,humor,2026-04-25
+101,Superfudge,Judy Blume,1972,393,353,19,4.4166665,12,humor,2026-04-25
+102,Pete the Cat,"Eric Litwin, James Dean",2008,393,349,28,3.55,20,humor,2026-04-25
+103,How the Grinch Stole Christmas!,"Dr. Seuss, Rik Mayall",1957,380,261,102,4.1153846,52,humor,2026-04-25
+104,Noli Me Tangere,José Rizal,1902,377,342,10,4.4,10,humor,2026-04-25
+105,The Unhoneymooners,Christina Lauren,1934,375,350,14,4.0,6,humor,2026-04-25
+106,The house in the Cerulean Sea,T. J. Klune,2019,373,329,35,4.4,15,humor,2026-04-25
+107,"E Natale, Stilton! (#12)","Elisabetta Dami, Manuel Manzano, David Nel·lo",2002,371,299,40,4.2083335,24,humor,2026-04-25
+108,A bad case of stripes,"David Shannon, David Shannon",1998,371,312,47,4.44,25,humor,2026-04-25
+109,Infinite Jest,David Foster Wallace,1996,365,310,39,4.214286,28,humor,2026-04-25
+110,"Life, the Universe and Everything",Douglas Adams,1900,363,149,204,4.1596637,119,humor,2026-04-25
+111,Room on the Broom,Julia Donaldson,2001,362,287,54,4.5333333,15,humor,2026-04-25
+112,Understanding Comics,Scott McCloud,1993,360,313,35,4.1923075,26,humor,2026-04-25
+113,Dork Diaries Drama Queen,Rachel Renée Russell,2009,357,285,48,4.324324,37,humor,2026-04-25
+114,The Light Fantastic,"Terry Pratchett, Ernest Riera",1986,357,170,173,4.0306125,98,humor,2026-04-25
+115,New Kid,Jerry Craft,2019,353,322,16,3.75,16,humor,2026-04-25
+116,Runaway Ralph,Beverly Cleary,1970,353,247,83,4.2987013,77,humor,2026-04-25
+117,One for the Money,Janet Evanovich,1994,353,272,62,4.0,24,humor,2026-04-25
+118,Dog Man,"Dav Pilkey, George Beard, Harold Hutchins, Jose Garibaldi",2014,352,305,22,4.0454545,22,humor,2026-04-25
+119,The Cheat Sheet,"Sarah Adams, Renee Dorian",2021,345,317,13,2.7,10,humor,2026-04-25
+120,Dog Man,Dav Pilkey,2002,345,305,21,4.392857,28,humor,2026-04-25
+121,Tales from a Not-So-Happily Ever After,Rachel Renée Russell,2009,343,259,50,4.0833335,24,humor,2026-04-25
+122,A Dog's Purpose,W. Bruce Cameron,2010,342,298,24,4.4210525,19,humor,2026-04-25
+123,"Oh, the Places You'll Go!",Dr. Seuss,1990,337,229,94,4.0545454,55,humor,2026-04-25
+124,There is a bird on your head!,Mo Willems,2007,333,241,79,4.6,25,humor,2026-04-25
+125,Women,Charles Bukowski,1978,332,284,35,3.6538463,26,humor,2026-04-25
+126,The Westing Game,Ellen Raskin,1978,330,254,55,3.878788,33,humor,2026-04-25
+127,Amelia Bedelia,"Peggy Parish, Fritz Siebel, Barbara Siebel Thomas, Wallace Tripp",1963,329,241,70,4.354839,31,humor,2026-04-25
+128,Three Men in a Boat (to say nothing of the dog),Jerome Klapka Jérôme,1889,329,249,56,4.0,34,humor,2026-04-25
+129,"Works (Hitch Hiker's Guide to the Galaxy / Restaurant at the End of the Universe / Life, the Universe and Everything / So Long, and Thanks for All the Fish / Mostly Harmless / Young Zaphod Plays it Safe)",Douglas Adams,1996,326,166,145,4.4134617,104,humor,2026-04-25
+130,Poor Charlie's Almanack,"Charles T. Munger, Charles T. Munger",2005,326,291,17,4.4,15,humor,2026-04-25
+131,Tales from a Not-So-Happy Birthday,Rachel Renée Russell,2018,325,295,10,4.368421,19,humor,2026-04-25
+132,Artemis Fowl and the Eternity Code,Eoin Colfer,2003,323,238,73,4.24,25,humor,2026-04-25
+133,Naked Lunch,"William S. Burroughs, William Burroughs",1959,323,265,38,3.7619047,21,humor,2026-04-25
+134,Maniac Magee,Jerry Spinelli,1990,320,242,51,4.108108,37,humor,2026-04-25
+135,Ubik,Philip K. Dick,1969,318,207,102,3.9452055,73,humor,2026-04-25
+136,Diary of a Wimpy Kid,Jeff Kinney,2024,313,281,9,5.0,6,humor,2026-04-25
+137,Anxious People,Fredrik Backman,2020,312,275,28,4.3333335,21,humor,2026-04-25
+138,Small Gods,"Terry Pratchett, Ray Friesen",1992,312,191,115,4.236111,72,humor,2026-04-25
+139,By The Great Horn Spoon,Sid Fleischman,1963,312,271,10,4.1666665,12,humor,2026-04-25
+140,A Room with a View,E. M. Forster,1905,312,254,35,3.75,20,humor,2026-04-25
+141,The Diamond Age,Neal Stephenson,1995,308,184,113,4.1,90,humor,2026-04-25
+142,The Mouse and the Motorcycle,Beverly Cleary,1965,304,227,61,3.909091,33,humor,2026-04-25
+143,The Indispensable Calvin and Hobbes,Bill Watterson,1992,303,231,53,4.6666665,42,humor,2026-04-25
+144,Big Nate Strikes Again,Lincoln Peirce,2010,303,266,20,4.0,22,humor,2026-04-25
+145,Cat Kid Comic Club,Dav Pilkey,2020,302,268,22,4.275862,29,humor,2026-04-25
+146,Dirk Gently’s Holistic Detective Agency,Douglas Adams,1987,302,220,71,4.0,38,humor,2026-04-25
+147,The Bad Guys,Aaron Blabey,2016,294,251,25,4.5,22,humor,2026-04-25
+148,Frog and Toad Together,Arnold Lobel,1971,294,215,70,4.151515,33,humor,2026-04-25
+149,Wyrd Sisters,Terry Pratchett,1988,289,160,121,4.0,72,humor,2026-04-25
+150,"Alexander and the Terrible, Horrible, No Good, Very Bad Day","Judith Viorst, Ray Cruz",1972,287,221,57,3.9142857,35,humor,2026-04-25

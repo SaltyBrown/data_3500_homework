@@ -1,0 +1,86 @@
+{
+    "run_date": "2026-04-25",
+    "genre_fetched_this_run": "humor",
+    "per_run_stats": {
+        "fantasy (2026-04-25)": {
+            "total_books": 150,
+            "top_book": "Harry Potter and the Philosopher's Stone",
+            "top_book_author": "J. K. Rowling",
+            "top_book_readinglog": 22611,
+            "max_readinglog": 22611,
+            "min_readinglog": 689,
+            "avg_readinglog": 2194.8,
+            "avg_rating": 4.123
+        },
+        "horror (2026-04-25)": {
+            "total_books": 150,
+            "top_book": "It",
+            "top_book_author": "Stephen King",
+            "top_book_readinglog": 11642,
+            "max_readinglog": 11642,
+            "min_readinglog": 276,
+            "avg_readinglog": 928.2,
+            "avg_rating": 3.992
+        },
+        "humor (2026-04-25)": {
+            "total_books": 150,
+            "top_book": "Diary of a Wimpy Kid",
+            "top_book_author": "Jeff Kinney",
+            "top_book_readinglog": 7309,
+            "max_readinglog": 7309,
+            "min_readinglog": 287,
+            "avg_readinglog": 857.2,
+            "avg_rating": 4.142
+        },
+        "mystery (2026-04-25)": {
+            "total_books": 150,
+            "top_book": "Harry Potter and the Philosopher's Stone",
+            "top_book_author": "J. K. Rowling",
+            "top_book_readinglog": 22611,
+            "max_readinglog": 22611,
+            "min_readinglog": 323,
+            "avg_readinglog": 1059.7,
+            "avg_rating": 4.053
+        },
+        "non-fiction (2026-04-25)": {
+            "total_books": 150,
+            "top_book": "Sapiens",
+            "top_book_author": "Yuval Noah Harari",
+            "top_book_readinglog": 5748,
+            "max_readinglog": 5748,
+            "min_readinglog": 20,
+            "avg_readinglog": 217.9,
+            "avg_rating": 3.983
+        }
+    },
+    "overall": {
+        "most_read_book": "Harry Potter and the Philosopher's Stone",
+        "most_read_book_author": "J. K. Rowling",
+        "most_read_book_genre": "fantasy",
+        "most_read_book_count": 22611,
+        "top_author_by_total_reads": "J. K. Rowling",
+        "top_author_total_readinglog": 91465,
+        "genres_ranked_by_avg_popularity": [
+            {
+                "genre": "fantasy",
+                "avg_readinglog": 2194.8
+            },
+            {
+                "genre": "mystery",
+                "avg_readinglog": 1059.7
+            },
+            {
+                "genre": "horror",
+                "avg_readinglog": 928.2
+            },
+            {
+                "genre": "humor",
+                "avg_readinglog": 857.2
+            },
+            {
+                "genre": "non-fiction",
+                "avg_readinglog": 217.9
+            }
+        ]
+    }
+}
